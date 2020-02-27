@@ -1,0 +1,20 @@
+{
+  "name": "hyper-yoruno",
+  "version": "1.0.0",
+  "description": "Hyper theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": ["Hyper","Hyper-theme","VTuber","Virtual YouTuber","Yoruno Yui"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HASH1da1/hyper-yoruno.git"
+  },
+  "author": "HASH1da1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HASH1da1/hyper-yoruno/issues"
+  },
+  "homepage": "https://github.com/HASH1da1/hyper-yoruno#readme"
+}
