@@ -6,7 +6,13 @@
   "scripts": {
     "test": "npm test"
   },
-  "keywords": ["Hyper","Hyper-theme","VTuber","Virtual YouTuber","Yoruno Yui"],
+  "keywords": [
+    "Hyper",
+    "Hyper-theme",
+    "VTuber",
+    "Virtual YouTuber",
+    "Yoruno Yui"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HASH1da1/hyper-yoruno.git"
@@ -16,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/HASH1da1/hyper-yoruno/issues"
   },
-  "homepage": "https://github.com/HASH1da1/hyper-yoruno#readme"
+  "homepage": "https://github.com/HASH1da1/hyper-yoruno#readme",
+  "dependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
 }
